@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Upstylee AR based E-commerce Web App](https://github.com/aneeshsharma72067/upstylee-ar-clothing-client.git)
 
-- 🌱 I’m currently learning **WebGL and Three.js**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://aneesh-dev.netlify.app](https://aneesh-dev.netlify.app)
 
-- 💬 Ask me about **React, Vue, Tailwind, Next, Express, Node, Flask**
+- 💬 Proficient in **React, Vue, Tailwind, Express**
 
-- 📫 How to reach me **aneeshsharma1024@gmail.com**
+- 📫 Send a mail at **aneeshsharma1024@gmail.com**
 
 - ⚡ Fun fact **I am also a manga reader 😁**
 
