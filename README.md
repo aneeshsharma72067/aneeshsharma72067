@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Aneesh Sharma</h1>
 <h3 align="center">A young software developer from India, creating web experiences for more that 1 years</h3>
 
-- 🔭 I’m currently working on [Upstylee AR based E-commerce Web App](https://github.com/aneeshsharma72067/upstylee-ar-clothing-client.git)
+- 🔭 I’m currently working on [IngrediEats](https://github.com/aneeshsharma72067/IngrediEats-client.git)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
