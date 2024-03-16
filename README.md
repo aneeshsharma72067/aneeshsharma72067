@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Upstylee AR based E-commerce Web App](https://github.com/aneeshsharma72067/upstylee-ar-clothing-client.git)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning** and **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://aneesh-dev.netlify.app](https://aneesh-dev.netlify.app)
 
