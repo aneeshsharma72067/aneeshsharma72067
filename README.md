@@ -11,7 +11,7 @@
 
 - 📫 Send a mail at **aneeshsharma1024@gmail.com**
 
-- ⚡ Fun fact **I am also a manga reader 😁**
+- ⚡ Fun fact **I am also a manga reader 📖 and a math geek 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
