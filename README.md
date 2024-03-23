@@ -1,17 +1,18 @@
 <h1 align="center">Yo , I'm Aneesh </h1>
 <h3 align="center">Crafting web wonders from the land of spices (and code) for over a year! 🇮🇳</h3>
+<h2></h2>
 
-- 🔭 I’m currently working on [Upstylee AR based E-commerce Web App](https://github.com/aneeshsharma72067/upstylee-ar-clothing-client.git)
+- 🔭 I’m currently working on [Devia](https://github.com/aneeshsharma72067/saas-website-builder)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning** and **Data Structures and Algorithms**
+- 🌱 Currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [https://aneesh-dev.netlify.app](https://aneesh-dev.netlify.app)
+- 👨‍💻 Take a look at my projects at [https://aneesh-dev.netlify.app](https://aneesh-dev.netlify.app)
 
-- 💬 Proficient in **React, Vue, Tailwind, Express**
+- 💬 Proficient in **Fullstack Web Development**
 
 - 📫 Send a mail at **aneeshsharma1024@gmail.com**
 
-- ⚡ Fun fact **I am also a manga reader 📖 and a math geek 🤓**
+- ⚡ Fun fact **I am a manga reader 📖 and a math geek 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +22,14 @@
 <a href="https://www.leetcode.com/aneesh1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneesh1024" height="30" width="40" /></a>
 </p>
 
+## My Skills
+<div>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeshsharma72067&show_icons=true&theme=dark)](https://github.com/aneeshsharma72067/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsharma72067&layout=compact)
+</div>
 <h3 align="left">Tools I mostly play with:</h3>
+
 
 <p align="center">
   <a href="https://aneesh-dev.netlify.app">
