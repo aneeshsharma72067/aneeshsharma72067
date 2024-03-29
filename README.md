@@ -1,8 +1,8 @@
-<h1 align="center">Yo , I'm Aneesh </h1>
+<h1 align="center">Yo , I'm Aneesh 🙋‍♂️ </h1>
 <h3 align="center">Crafting web wonders from the land of spices (and code) for over a year! 🇮🇳</h3>
 <h2></h2>
 
-- 🔭 I’m currently working on [Devia](https://github.com/aneeshsharma72067/saas-website-builder)
+- 🔭 I’m currently working on [Devia](https://github.com/aneeshsharma72067/saas-website-builder) and [Gengo Chat](https://github.com/aneeshsharma72067/gengo-chat)
 
 - 🌱 Currently learning **ML**
 
