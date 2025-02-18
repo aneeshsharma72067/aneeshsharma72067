@@ -2,7 +2,7 @@
 <h3 align="center">Crafting web wonders from the land of spices (and code) for over a year! 🇮🇳</h3>
 <h2></h2>
 
-- 🌱 Currently learning **ML** and **Operating Systems**
+- 🌱 Currently learning **ML** and **React Native**
 
 - 👨‍💻 Take a look at my projects at [https://aneesh-dev.netlify.app](https://aneesh-dev.netlify.app)
 
